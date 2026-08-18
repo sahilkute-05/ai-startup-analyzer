@@ -2,26 +2,40 @@
 
 ## Current Version
 
-v0.2
+v0.3
 
 ## Completed
 
-- Project structure
-- Git setup
+- Project setup
+- Git initialization
 - Virtual environment
 - BaseAgent
-- LLMService mock
+- LLMService architecture
 - ResearchAgent
 - Research prompt
-- Basic ResearchAgent test
+- Mock testing
+- Real OpenAI LLM integration
 
 ## Current Task
 
-Connect LLMService to a real LLM.
+Test the Research Agent with the real LLM.
 
 ## Next
 
-- Real LLM integration
-- Test ResearchAgent with actual model
-- Improve structured output
-- Build CompetitorAgent
+- Improve Research Agent output
+- Structured outputs
+- Build Competitor Agent
+- Build Tech Stack Agent
+- Build Planner Agent
+- Orchestrate agents
+- MCP integration
+
+
+
+## Completed
+
+- Gemini API integration
+- LLMProvider abstraction
+- GeminiProvider
+- LLMService refactoring
+- ResearchAgent using Gemini
