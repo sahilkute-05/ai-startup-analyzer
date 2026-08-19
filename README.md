@@ -106,7 +106,7 @@ Research     Competitor
                          ┌─────────────────────────┐
                          │      React + Vite       │
                          │        Frontend         │
-                         │        Port 3000         │
+                         │        Port 3000        │
                          └────────────┬────────────┘
                                       │
                                       │ POST /analyze
@@ -114,7 +114,7 @@ Research     Competitor
                          ┌─────────────────────────┐
                          │        FastAPI          │
                          │         Backend         │
-                         │        Port 8000         │
+                         │        Port 8000        │
                          └────────────┬────────────┘
                                       │
                                       ▼
